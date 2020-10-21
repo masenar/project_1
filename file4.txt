@@ -1,1 +1,1 @@
-Contents of file 4
+Contents of file 4 are different now
